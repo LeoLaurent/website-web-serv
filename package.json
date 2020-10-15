@@ -4,11 +4,14 @@
   "main": "index.js",
   "author": "LeoLaurent <laurentj.leo@gmail.com>",
   "license": "MIT",
-  "devDependencies": {
-    "jest": "^26.5.3"
-  },
   "scripts": {
     "test": "jest"
+  },
+  "devDependencies": {
+    "geckodriver": "^1.20.0",
+    "jest": "^26.5.2",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "chromedriver": "85.0.0"
   },
   "dependencies": {
     "purecss": "^2.0.3"
