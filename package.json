@@ -1,0 +1,13 @@
+{
+  "name": "my-num-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "LeoLaurent <laurentj.leo@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.5.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
