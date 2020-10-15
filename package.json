@@ -9,5 +9,8 @@
   },
   "scripts": {
     "test": "jest"
+  },
+  "dependencies": {
+    "purecss": "^2.0.3"
   }
 }
